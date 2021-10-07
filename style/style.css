@@ -15,6 +15,7 @@
 body{
     background: var(--preto);
     font-family: 'Netflix Sans', Times, serif;
+    color:white;
 }
 
 header .container{
